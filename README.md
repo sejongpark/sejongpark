@@ -10,7 +10,6 @@
 <p align="center" style="display: flex; align-items: flex-start;">
   <img src="https://img.shields.io/badge/html5-3b587f?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-3b587f?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/next-3b587f?style=for-the-badge&logo=nextdotjs&logoColor=white">
 </p>
 <p align="center" style="display: flex; align-items: flex-start;">
   <img src="https://img.shields.io/badge/recoil-3b587f?style=for-the-badge&logo=recoil&logoColor=white">
